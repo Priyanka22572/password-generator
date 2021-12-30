@@ -1,0 +1,6 @@
+This is a password generator
+must be 8 character
+Atleast 1 upper case
+Atleast 1 lower case
+Atleast 1 number 
+atleast 1 special character
